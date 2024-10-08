@@ -1,0 +1,402 @@
+ls
+cd /home/
+fdisk -l
+sudo fdisk -l
+df -h
+lsblk
+ls
+mkdir repogit
+sudo mkdir repogit
+ls
+cd repogit/
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+sudo git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+sudo git clone https://github.com/rociodegrazia/UTNFRA_SO_1P2C_2024_DeGrazia.git
+ls
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+~/.bashrc && history -a
+ls
+rm -r UTN-FRA_SO_Examenes/
+ls
+sudo rm -r UTN-FRA_SO_Examenes/
+ls
+sudo rm -r UTNFRA_SO_1P2C_2024_DeGrazia/
+ls
+cd ..
+ls
+sudo rm -r repogit/
+ls
+cd vagrant/
+ls
+pwd
+mkdir repogit
+ls
+cd repogit/
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+git clone https://github.com/rociodegrazia/UTNFRA_SO_1P2C_2024_DeGrazia.git
+ls
+cd UTNFRA_SO_1P2C_2024_DeGrazia/
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+ls
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+~/.bashrc && history -a
+sudo ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+cd ..
+ls
+pwd
+/UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+pwd
+UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+~/.bashrc && history -a
+sudo ~/.bashrc && history -a
+ls
+cd UTNFRA_SO_1P2C_2024_DeGrazia/
+ls
+CD ..
+cd ..
+ls
+tree UTNFRA_SO_1P2C_2024_DeGrazia/
+sudo apt install tree
+sudo snap install tree
+tree UTNFRA_SO_1P2C_2024_DeGrazia
+pws
+pwd
+source ~/.bashrc && history -a
+tree UTNFRA_SO_1P2C_2024_DeGrazia
+ls
+cd UTNFRA_SO_1P2C_2024_DeGrazia/
+tree UTNFRA_SO_1P2C_2024_DeGrazia
+cd ..
+tree UTNFRA_SO_1P2C_2024_DeGrazia
+ls
+cd UTNFRA_SO_1P2C_2024_DeGrazia/
+cd RTA_SCRIPT_Examen_20241006/
+ls
+nano Punto_A.sh
+ls
+Punto_A.sh
+sudo Punto_A.sh
+ls
+nano Punto_A.sh
+./Punto_A.sh
+ls 
+cd Punto_A.sh
++x Punto_A.sh
+ls
+Punto_A.sh
+ls
+nano Punto_A.sh
+bash Punto_A.sh
+cd ..
+RTA_ARCHIVOS_Examen_20241006/
+RTA_ARCHIVOS_Examen_20241006/LS
+ls
+RTA_SCRIPT_Examen_20241006/
+cd RTA_SCRIPT_Examen_20241006/
+ls
+bash Punto_A.sh
+cd ..
+ls
+cd RTA_ARCHIVOS_Examen_20241006/
+ls
+tree Examenes_UTN/
+cd ..
+ls
+cd RTA_SCRIPT_Examen_20241006/
+ls
+nano Punto_B.sh
+sudo -fdisk -l
+ls
+sudo fdisk -l
+ls
+nano Punto_B.sh
+sudo fdisk -l
+lsblk
+ls
+cd repogit/
+ls
+UTNFRA_SO_1P2C_2024_DeGrazia/
+ls
+UTNFRA_SO_1P2C_2024_DeGrazia/
+ls UTNFRA_SO_1P2C_2024_DeGrazia/
+cd RTA_SCRIPT_Examen_20241006
+ls
+cd ~/repogit/UTNFRA_SO_1P2C_2024_DeGrazia/RTA_SCRIPT_Examen_20241006
+ls
+sudo bash Punto_B.sh
+lsblk
+sudo parted /dev/sdc print
+sudo parted /dev/sdc mklabel msdos
+ls
+cd repogit/
+ls
+cd UTNFRA_SO_1P2C_2024_DeGrazia/
+ls
+cd RTA_SCRIPT_Examen_20241006/
+ls
+nano Punto_B.sh
+sudo bash Punto_B.sh
+nano Punto_B.sh
+chmod +x Punto_B.sh
+sudo bash Punto_B.sh
+ls
+sudo nano /etc/fstab
+nano Punto_B.sh
+ls
+chmod +x Punto_B.sh
+sudo ./Punto_B.sh
+ls
+chmod -x Punto_B.sh
+ls
+nano Punto_B.sh
+ls
+cd repogit/
+ls
+cd UTNFRA_SO_1P2C_2024_DeGrazia/
+ls
+cd RTA_SCRIPT_Examen_20241006/
+ls
+lsblk
+ls
+nano Punto_B.sh
+lsblk
+ls
+nano Punto_b.sh
+nano Punto_B.sh
+lsblk
+./Punto_B.sh
+bash Punto_B.sh
+nano Punto_B.sh
+sudo bash Punto_B.sh
+sudo fdisk -l /dev/sdc
+sudo fdisk /dev/sdc
+sudo fdisk -l /dev/sdc
+sudo fdisk /dev/sdc
+sudo fdisk -l /dev/sdc
+ls
+nano Punto_B.sh
+sudo bash Punto_B.sh 
+sudo fdisk /dev/sdc
+sudo fdisk -l /dev/sdc
+sudo fdisk /dev/sdc
+lsblk
+ls /Examenes-UTN/alumno_1
+ls
+nano Punto_B.sh
+sudo bash Punto_B.sh 
+sudo fdisk /dev/sdc
+sudo fdisk -l /dev/sdc
+lsblk
+sudo fdisk -l /dev/sdc
+sudo fdisk /dev/sdc
+ls
+nano Punto_A.sh
+echo $HOME
+pwd
+exit
+vagrant halt
+ls
+logout
+ls
+cd ..
+ls
+cd RTA_ARCHIVOS_Examen_20241006/
+ls
+cd Examenes_UTN/
+ls
+tree Examenes_UTN
+CD ..
+cd ..
+ls
+cd ..
+ls
+cd..
+cd ..
+ls 
+UTN-FRA_SO_Examenes/
+cd UTN-FRA_SO_Examenes/
+ls
+$HOME/repogit
+pwd
+cd ..
+ls
+pdw
+pwd
+tree UTN-FRA_SO_Examenes/
+tree UTNFRA_SO_1P2C_2024_DeGrazia/
+echo $HOME
+ls
+UTN-FRA_SO_Examenes/
+cd UTN-FRA_SO_Examenes/
+ls
+cd ..
+ls
+cd UTNFRA_SO_1P2C_2024_DeGrazia/
+ls
+cd RTA_ARCHIVOS_Examen_20241006/
+ls
+cd Examenes_UTN/
+ls
+cd ..
+ls
+cd ..
+ls
+cd RTA_SCRIPT_Examen_20241006/
+ls
+nano Punto_D.sh 
+bash Punto_D.sh 
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+tree /home/vagrant/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+cd ~
+pwd
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+ls
+cd repogit/
+ls
+UTNFRA_SO_1P2C_2024_DeGrazia/
+cd UTNFRA_SO_1P2C_2024_DeGrazia/
+ls
+cd RTA_SCRIPT_Examen_20241006/
+ls
+nano Punto_E.sh
+sudo bash Punto_E.sh 
+bash Punto_E.sh 
+cat "$HOME/repogit/UTNFRA_SO_1P2C_2024_DeGrazia/RTA_ARCHIVOS_Examen_20241006/Filtro_Basico.txt"
+ls
+nano Punto_E.sh
+sudo dmidecode -t chassis
+nano Punto_E.sh
+bash Punto_E.sh
+cat "$HOME/repogit/UTNFRA_SO_1P2C_2024_DeGrazia/RTA_ARCHIVOS_Examen_20241006/Filtro_Basico.txt"
+nano Punto_D.sh
+bash Punto_E.sh
+nano Punto_E.sh
+ls
+nano Punto_F.sh
+nano Punto_E.sh
+nano Punto_F.sh
+bash Punto_F.sh
+cat "$HOME/repogit/UTNFRA_SO_1P2C_2024_DeGrazia/RTA_ARCHIVOS_Examen_20241006/Filtro_Avanzado.txt"
+nano Punto_F.sh
+ls
+nano Punto_A.sh
+nano Punto_C.sh 
+cd ~ 
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+ls
+cd repogit/
+ls
+UTNFRA_SO_1P2C_2024_DeGrazia/
+cd UTNFRA_SO_1P2C_2024_DeGrazia/
+ls
+RTA_SCRIPT_Examen_20241006/
+cd RTA_SCRIPT_Examen_20241006/
+ls
+nano Punto_D.sh
+ls
+cd repogit/
+ls
+cd
+ls
+cd repogit/
+ls
+cd UTNFRA_SO_1P2C_2024_DeGrazia/
+ls
+cd RTA_SCRIPT_Examen_20241006/
+ls
+nano Punto_C.sh
+ls
+nano Punto_C.sh
+cd ..
+ls
+cd RTA_ARCHIVOS_Examen_20241006/
+tree Examenes_UTN/
+ls
+cd Examenes_UTN/
+ls
+cd alumno_1
+cd ..
+ls
+cd RTA_SCRIPT_Examen_20241006/
+ls
+nano Punto_C.sh
+ls
+sudo bash Punto_C.sh
+nano Punto_C.sh
+sudo bash Punto_C.sh
+cd ..
+ls
+cd RTA_ARCHIVOS_Examen_20241006/
+ls
+tree Examenes_UTN/
+cd..
+cd ..
+ls
+ls -l
+ls
+cd RTA_SCRIPT_Examen_20241006/
+ls
+bash Punto_C.sh 
+c 
+cd 
+cd /home/
+ls
+sudo chmod 757 vagrant
+bash Punto_C.sh 
+ls
+cd vagrant/
+ls
+cd repogit/
+ls
+cd UTNFRA_SO_1P2C_2024_DeGrazia/
+ls
+cd RTA_SCRIPT_Examen_20241006/
+ls
+bash Punto_C.sh 
+cd ..
+ls
+cd RTA_ARCHIVOS_Examen_20241006/
+ls
+tree Examenes_UTN/
+ls -la
+cd Examenes_UTN/
+ls -la
+cd profesores/
+ls
+cat validar.txt 
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd repogit/
+ls
+cd UTN-FRA_SO_Examenes/
+cd ..
+ls
+cd UTNFRA_SO_1P2C_2024_DeGrazia/
+ls
+cd RTA_SCRIPT_Examen_20241006/
+nano Punto_D.sh
+ls -la
+sudo chmod 762 Punto_A.sh
+ls -la
+sudo chmod 764 Punto_A.sh
+sudo chmod 764 Punto_B.sh
+sudo chmod 764 Punto_C.sh
+sudo chmod 764 Punto_D.sh
+sudo chmod 764 Punto_E.sh
+sudo chmod 764 Punto_F.sh
+ls -la
+./Punto_D.sh
+cd ..
+ls
+cd RTA_ARCHIVOS_Examen_20241006/
+ls
+cd ..
+ls
+nano README.md 
+history -a

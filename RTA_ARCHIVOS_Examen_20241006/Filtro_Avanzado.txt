@@ -1,0 +1,4 @@
+Mi IP publica es: 186.22.13.62
+Mi Usuario es: vagrant
+El Hash de mi Usuario es: 6d016aa287990152548f0a414048c2edeea7f84b48293cab21506f86649f79b8
+La URL de mi repositorio es: https://github.com/rociodegrazia/UTNFRA_SO_1P2C_2024_DeGrazia.git

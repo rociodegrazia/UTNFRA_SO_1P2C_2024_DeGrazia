@@ -1,0 +1,1 @@
+mkdir -p ~/repogit/UTNFRA_SO_1P2C_2024_DeGrazia/RTA_ARCHIVOS_Examen_20241006/Examenes_UTN/{alumno_1,alumno_2,alumno_3}/{parcial_1,parcial_2,parcial_3} ~/repogit/UTNFRA_SO_1P2C_2024_DeGrazia/RTA_ARCHIVOS_Examen_20241006/Examenes_UTN/profesores
